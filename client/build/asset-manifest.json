@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5f0c5e4.css",
+    "main.js": "/static/js/main.b517e6b5.js",
+    "static/js/787.f371b9a0.chunk.js": "/static/js/787.f371b9a0.chunk.js",
+    "static/media/Rectangle 11.png": "/static/media/Rectangle 11.cabfdbf2b591fe0b4186.png",
+    "static/media/Lending.jpg": "/static/media/Lending.caa6f153c56da8b8e14e.jpg",
+    "static/media/hero2.png": "/static/media/hero2.8b5f68ce55cef4cf7987.png",
+    "static/media/il1 1.png": "/static/media/il1 1.1084211c8a2a52bf61b0.png",
+    "static/media/uygu 1.png": "/static/media/uygu 1.d01e065a3fa4112f72bb.png",
+    "static/media/fyghj 1.png": "/static/media/fyghj 1.14530f6f8c329649e81e.png",
+    "static/media/jhbjk 1.png": "/static/media/jhbjk 1.0261b8e9b36d52ddbc4b.png",
+    "static/media/guj 1.png": "/static/media/guj 1.337511f88f507a460034.png",
+    "static/media/image 18.png": "/static/media/image 18.e7ed452fdbe6676d982e.png",
+    "static/media/image 19.png": "/static/media/image 19.e0e2e89005251f0a61e2.png",
+    "static/media/image 16.png": "/static/media/image 16.6f14c1e959af3e6cbda4.png",
+    "static/media/image 17.png": "/static/media/image 17.e82fe3e5c14a455f2688.png",
+    "static/media/vbhbn 1.png": "/static/media/vbhbn 1.afab99d9c0f8f8dcea82.png",
+    "static/media/person-completing-crypto-transaction 1.png": "/static/media/person-completing-crypto-transaction 1.e35c8645bd429dad0d94.png",
+    "static/media/image 11.png": "/static/media/image 11.d4d13c090b0707d91f12.png",
+    "index.html": "/index.html",
+    "main.a5f0c5e4.css.map": "/static/css/main.a5f0c5e4.css.map",
+    "main.b517e6b5.js.map": "/static/js/main.b517e6b5.js.map",
+    "787.f371b9a0.chunk.js.map": "/static/js/787.f371b9a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f0c5e4.css",
+    "static/js/main.b517e6b5.js"
+  ]
+}
